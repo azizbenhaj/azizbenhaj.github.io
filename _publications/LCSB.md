@@ -3,7 +3,7 @@ title: "Generative Approaches to Kinetic Parameter Inference in Metabolic Networ
 collection: publications
 # category: manuscripts # conferences
 permalink: /publication/2025-04-05-latent-metabolic-generative-models
-excerpt: "We present a novel generative framework that leverages latent space exploration to generate dynamic metabolic models with targeted properties. This work introduces a new approach to controllably infer kinetic parameters in large-scale biological systems using pretrained neural network generators such as REKINDLE and RENAISSANCE."
+excerpt: "We introduce a generative framework for constructing large-scale kinetic metabolic models through latent space exploration. By repurposing pretrained neural network generators across different physiological contexts, our method enables efficient and interpretable inference of kinetic parameters, facilitating targeted model design for diverse metabolic behaviors."
 date: 2025-04-05
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.03.31.646317v1'
@@ -14,10 +14,7 @@ related: false
 ---
 
 ## Abstract
-
-Dynamic kinetic models of metabolism are essential for understanding how cells adapt to internal and external changes. However, generating such models remains limited by scarce experimental data and computational challenges in parameter estimation. This paper introduces a novel framework that leverages **generative machine learning models** and their **latent space** representations to explore and control dynamic behaviors in metabolic systems.
-
-We build on existing approaches like **REKINDLE** and **RENAISSANCE**, training neural network generators to learn the mapping from a Gaussian latent space to valid kinetic parameter sets. By exploring the structure of this latent space, we can fine-tune specific model properties such as dynamic response times, regulatory bottlenecks, or even transfer learned behaviors across different physiological conditions.
+Generative machine learning methods that utilize neural networks to parameterize large-scale and near-genome-scale kinetic models have yielded significant efficiency gains in model construction, paving the way for high-throughput dynamic metabolism studies in biomedical and biotechnological applications. Nevertheless, challenges remain in interpreting the outputs of generative neural networks and developing strategies to quickly adapt these networks to different organisms and physiological contexts without having to restart the modeling process from scratch. Here, we present a systematic framework for repurposing generative neural networks trained on one physiological context to build large-scale kinetic models tailored for another context, thereby offering a new avenue for efficiently constructing models with targeted desired properties suitable for various physiological scenarios. We showcase the effectiveness of this method through three case studies: (i) adjusting the modeled response speed of cellular metabolism in aerobic E. coli cultures, (ii) improving interpretability by identifying key enzymatic steps that limit the dynamic response speed of the metabolic models, and (iii) adapting our neural network to capture the distinct dynamic behavior of anaerobic E. coli. Given the growing adoption of generative neural networks in biological systems modeling, our approach has the potential to advance personalized medicine and accelerate the high-throughput design of cell factories by streamlining model construction across diverse living organisms.
 
 ## Key Contributions
 
@@ -28,7 +25,7 @@ We build on existing approaches like **REKINDLE** and **RENAISSANCE**, training 
 ## Publication Details
 
 - **Date**: April 5, 2025  
-- **Preprint**: [bioRxiv - DOI: 10.1101/2025.03.31.646317](https://www.biorxiv.org/content/10.1101/2025.03.31.646317v1)  
+- **Preprint**: [bioRxiv - DOI: 10.1101/2025.03.31.646317](https://www.biorxiv.org/content/10.1101/2025.03.31.646317v2)  
 - **License**: CC-BY-NC-ND 4.0  
-- **PDF**: [Download Full Paper](https://www.biorxiv.org/content/10.1101/2025.03.31.646317v1.full.pdf)
+- **PDF**: [Download Full Paper](https://www.biorxiv.org/content/10.1101/2025.03.31.646317v2.full.pdf)
 

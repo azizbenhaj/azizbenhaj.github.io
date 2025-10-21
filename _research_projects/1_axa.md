@@ -1,73 +1,71 @@
 ---
-title: "Unified Graph-Based Matching: Text-Image Cross-Modal Retrieval using Scene Graph Alignment for Remote Sensing Applications"
-excerpt: "We introduce a unified framework for cross-modal retrieval in remote sensing, aligning scene graphs from satellite imagery and text descriptions. Using the STAR dataset, our method encodes graph structures from both modalities and aligns them via contrastive learning. We evaluate multiple similarity strategies—node, edge, global, and hybrid—and propose a benchmark protocol for retrieval. This work opens up new directions for structured vision-language understanding in geospatial domains."
+title: "Structured Representations for Fine-Grained Text-to-Image Retrieval in Remote Sensing"
+excerpt: "This thesis introduces a multimodal framework for fine-grained text-to-image retrieval in remote sensing, combining global and structured representations through scene graphs and semantic region embeddings. It addresses the limitations of CLIP-style global embeddings by capturing spatial, semantic, and relational details critical for fine-grained reasoning."
 collection: research_projects
+permalink: /publication/2025-08-26-structured-representations
+paperurl: '/files/Master_thesis_final_report.pdf'
 share: false
 related: false
 ---
 
 ## Problem Statement & Motivation
 
-Scene Graph Generation (SGG) has made significant strides in natural image domains, but its adaptation and performance in complex remote sensing imagery remain underexplored. The **STAR dataset**—the first large-scale benchmark for SGG in satellite imagery—opens new directions for structured understanding of overhead scenes. However, leveraging scene graphs for **image-text retrieval** presents unique challenges due to:
+Traditional CLIP-based models represent both text and images as single vectors within a shared embedding space. While effective for generic retrieval, this approach fails to capture the **fine-grained spatial and semantic relationships** that characterize **remote sensing (RS) imagery**, such as object counts, arrangements, and contextual interactions.
 
-- **Compositional complexity**: Satellite imagery often contains numerous interrelated objects (e.g., roads, buildings, vehicles) whose spatial and functional relationships are essential for meaningful interpretation but difficult to encode into a single embedding vector.
-- **Cross-modal alignment difficulties**: Accurately aligning graph-structured visual representations with free-form textual queries requires deep modeling of both relational semantics and contextual cues.
-- **Scalability and generalization**: Scene graphs in remote sensing must scale to large, diverse geographic regions and generalize across vastly different environments and timeframes.
-- **Ambiguity and sparsity in annotations**: Satellite images often lack dense, fine-grained annotations, making supervised learning of graph-based representations and their grounding in language more difficult.
+Remote sensing datasets are often **visually repetitive and textually generic**, limiting retrieval quality and interpretability. For industries such as **insurance and environmental monitoring**, accurate retrieval requires a deeper, structured understanding of scenes.
 
-## Our Method
+This work addresses these challenges by introducing **structured, multimodal representations**—spanning vector, graph, and scene levels—to enhance cross-modal alignment and reasoning.
 
-To explore graph-based retrieval in the remote sensing context, we propose a **contrastive learning framework** that incorporates **scene graph embeddings** from both image and text modalities.
 
-### 1. Scene Graph Construction
+## Our Approach
 
-- From images: using existing annotations in the STAR dataset.
-- From text: using GPT-4o-mini to extract structured scene graphs from natural language descriptions.
+The proposed framework integrates **graph-based** and **scene-based** representations on top of traditional vector embeddings, yielding a unified retrieval system capable of reasoning over object relations, attributes, and global semantics.
 
-### 2. Graph Embedding and Similarity Retrieval
+### 1. Fine-Grained Dataset Creation
+- Generated **fine-grained captions** using large vision–language models (Gemini-2.5-flash).  
+- Conducted human evaluations showing improved **semantic richness and diversity** over existing datasets (e.g., RSICD, NWPU, RSITMD).
+- Released new benchmark-ready datasets for fine-grained RS retrieval tasks.
 
-We explore several graph-based retrieval strategies:
+### 2. Structured Multimodal Representations
+- **Image-to-Graph**: scene graph generation from RS images via VLM-based object, attribute, and relation extraction.
+- **Text-to-Graph**: structured graph extraction from captions for relational grounding.
+- **Scene Decomposition**: lightweight alternative to graphs—segmenting images and captions into semantically coherent regions.
 
-- **Node similarity**: comparing object/entity types.
-- **Edge similarity**: comparing relationships between objects.
-- **Local matching**: combining node and edge features.
-- **Global matching**: encoding full scene graphs with GNNs or graph transformers.
-- **Hybrid retrieval**: fusing local and global similarity signals.
+### 3. Retrieval Framework
+Implemented multiple cross-modal retrieval modes:
+- **V2V** – CLIP-style global embedding matching.  
+- **G2G / VG2VG** – graph-level and hybrid vector–graph matching using Graph Matching Networks (GMN).  
+- **S2S / V2S / S2V** – scene-level retrieval as a cost-effective alternative requiring no graph construction.
 
-For each image, we extract a scene graph and encode it using a **graph transformer** with a designated **query vertex**. We apply the same process to text-generated graphs, ensuring structural consistency.
+## Key Results
 
-To improve alignment, we use **cross-attention mechanisms**, optionally applying the **Hungarian algorithm** for optimal node/edge matching. This supports multiple retrieval modes:
+- **VG2VG** (Hybrid Vector–Graph) achieves **+8.30% mean accuracy gain** over baselines.  
+- **Scene-based matching** provides **+3.55% gain** with minimal computation—ideal for scalable deployment.  
+- Human evaluations confirm **stronger grounding and interpretability** for fine-grained captions.  
+- Demonstrated applicability to **real-world insurance and risk assessment** scenarios.
 
-- **Object-centric**: retrieve based on key entities.
-- **Relation-aware**: focus on spatial/semantic relationships.
-- **Scene-type**: match overall graph structure (e.g., "urban area").
-- **Graph-template**: retrieve scenes matching a user-defined graph.
 
----
+## Contributions
 
-### 3. Training
+- **Fine-Grained Caption Generation and Validation** for remote sensing datasets.  
+- **Unified multimodal retrieval framework** combining global, graph, and scene-based representations.  
+- **Novel Graph Matching Network (GMN)** for dynamic graph similarity scoring.  
+- **Scene-based retrieval** as a lightweight, training-free alternative.  
+- **Extensive benchmarking** across RSICD, NWPU, RSITMD, and FIT-RS datasets.
 
-We train with a mix of:
+## Defense & Supervision
 
-- **Contrastive loss**: aligns matching image-text graph pairs.
-- **Triplet loss**: enforces margin-based separation from incorrect matches.
+- **Institution**: EPFL – School of Computer and Communication Sciences  
+- **Supervisors**: Prof. *Devis Tuia* (EPFL ENAC) & *Ciprian Tomoiaga* (AXA Group Operations)  
+- **Defense Date**: August 26, 2025  
+- **Author**: *Oussama Gabouj*  
 
-This dual-loss setup improves both global alignment and fine-grained discrimination, supporting robust retrieval across diverse satellite scenes.
 
-## Evaluation & Benchmarking
+## Resources
 
-We design a **retrieval benchmark protocol** on the STAR dataset, featuring:
+- **Date**: August 28, 2025  
+- **PDF**: [Full Thesis PDF](/files/Master_thesis_final_report.pdf)  
+- **Slides**:[Presentation Slides](/files/Master_Thesis_Presentation.pptx)
 
-- Standard metrics: **Recall@K** and **Mean Average Precision (mAP)**.
-- Structured evaluation across various scene types and relation complexities.
 
-We compare our graph-based retrieval pipeline against a wide range of baselines from multimodal and remote sensing literature, including:
-
-- **Vision-language models**: RemoteCLIP, GeoRSCLIP, RS-M-CLIP, SkyScript, AIR.
-- **Prompt and image retrieval methods**: PIR-ITR, PIR-CLIP, SWPE.
-- **Graph and attention-based approaches**: AMFMN, GaLR, SWAN, HVSA, DOVE, KAMCL, PE-RSITR, MSA.
-- **Knowledge-augmented and embedding models**: EBAKER, iEBAKER-Split, LRSCLIP.
-
-> *Note: The benchmarking pipeline is still under development, and integration of these baselines is in progress.*
-
-This benchmark aims to standardize scene-graph-driven image-text retrieval evaluation in satellite imagery, encouraging reproducibility and cross-method comparison.
+> *This work bridges vision–language modeling and remote sensing, paving the way for structured, interpretable, and fine-grained retrieval systems in complex geospatial domains.*
