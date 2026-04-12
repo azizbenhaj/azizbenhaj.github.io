@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Oussama Gabouj**, a Master's student in **Data Science** at **EPFL** with a **minor in Cyber Security**.  Through various lab collaborations, industrial internships, and courses, I’ve worked on a wide range of **research projects** and **course projects** that I’m excited to share here. I also maintain a **[Research & Debug Diary](/journal)** — a journal documenting technical challenges I’ve faced and how I tackled them, both in research and in code.
+I’m **Oussama Gabouj**, aa Master's student in **Data Science** at **EPFL** with a **minor in Cyber Security**.  Through various lab collaborations, industrial internships, and courses, I’ve worked on a wide range of **research projects** and **course projects** that I’m excited to share here. I also maintain a **[Research & Debug Diary](/journal)** — a journal documenting technical challenges I’ve faced and how I tackled them, both in research and in code.
 
 
 ## 🎓 Education
