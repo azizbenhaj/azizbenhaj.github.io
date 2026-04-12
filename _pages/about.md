@@ -7,25 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Oussama Gabouj**, aa Master's student in **Data Science** at **EPFL** with a **minor in Cyber Security**.  Through various lab collaborations, industrial internships, and courses, I’ve worked on a wide range of **research projects** and **course projects** that I’m excited to share here. I also maintain a **[Research & Debug Diary](/journal)** — a journal documenting technical challenges I’ve faced and how I tackled them, both in research and in code.
+I’m **Ahmed Aziz Ben Haj Hmida**, an EPFL graduate with a Master’s in **Data Science** and a minor in Management, Technology, and Entrepreneurship. Through collaborations with **research labs**, **industrial internships**, and **academic coursework**, I’ve had the opportunity to work on a diverse range of projects across both research and industry—many of which I’m excited to share here.
 
 
 ## 🎓 Education
 
-**Master of Data Science**, Minor in Cyber Security 
-*Master Thesis:* Text-to-Image Retrieval using Scene Graph Generation  
-**EPFL, Switzerland**  | **2023 – 2025**  
+**Master of Data Science**, Minor in Management, Technology, and Entrepreneurship  
+**EPFL, Switzerland** | 2023 – 2026  
+**GPA**: 5.3 / 6  
+**Master’s Thesis**: Curve-Based Similarity Detection & Parameter Recalibration for CNC Laser Tools
 
-**Bachelor of Microengineering**  
-**EPFL, Switzerland**  | **2020 – 2023**  
+**Bachelor of Communication Systems**  
+**EPFL, Switzerland** | 2020 – 2023  
+**GPA**: 5.1 / 6  
+**Exchange Program**: Technical University of Denmark (DTU), Lyngby, Denmark (3rd year) 
 
 ## 🏢 Labs & Industry Experience
 
 ### Research Labs @ EPFL
-- [**DLab**](https://dlab.epfl.ch): The Data Science Lab focuses on transforming large-scale data into meaningful insights by developing algorithms in natural language processing, machine learning, and computational social science. 
-- [**LCSB**](https://www.epfl.ch/labs/lcsb/): The Laboratory of Computational Systems Biotechnology specializes in reconstructing and analyzing biological networks to understand cellular processes through computational models.
-- [**DISAL**](https://www.epfl.ch/labs/disal/): The Distributed Intelligent Systems and Algorithms Laboratory develops methodologies for distributed, intelligent systems, emphasizing cyber-physical systems like multi-robot systems and sensor networks. 
+- [**LTS4**](https://www.epfl.ch/labs/lts4/): Signal Processing Laboratory (LTS4) is a research group at EPFL, led by **Prof. Pascal Frossard**. The lab works at the intersection of signal processing, machine learning, and applied mathematics, with research spanning image processing, graph signal processing, network data analysis, distributed signal processing, image and video coding, immersive communications, and biomedical applications.
+- [**LT54**](https://www.epfl.ch/labs/lts5/): Signal Processing Laboratory 5 (LTS5) is a research group at EPFL, led by **Prof. Jean-Philippe Thiran**. The lab focuses on signal processing, with core expertise in computer vision, image analysis, and medical imaging.
+- [**ENTC**](https://www.epfl.ch/labs/entc/): The Chair of Entrepreneurship and Technology Commercialization is an internationally recognized center of excellence in entrepreneurship and technology commercialization, engaged in both research and teaching. It operates within a global network of entrepreneurship institutions and serves as a key partner to the entrepreneurial ecosystem at EPFL and in the Lausanne region.
+- [**EPFL Alexander Mathis Lab**](https://www.epfl.ch/labs/alexandermathis-lab/): The Alexander Mathis Group of Computational Neuroscience & AI operates at the intersection of computational neuroscience and machine learning, with the goal of reverse-engineering brain algorithms to better understand neural function and develop more advanced AI systems.
 
 ### Industry Internships
-- [**Pixalione (Paris)**](https://www.pixalione.co.uk/):  A digital marketing agency specializing in SEO, Paid Media, and Data Analytics, combining human expertise with proprietary algorithmic tools to optimize web presence.
-- [**AXA Group Operations (Switzerland)**](https://www.axa.ch/en/private-customers.html): The IT services division of AXA, focusing on creating innovative technology and data solutions to support AXA's ambition of being a customer-focused, tech-led company. 
+- [**Rollomatic SA (Switzerland)**](https://www.rollomatic.ch): Rollomatic is a **Swiss manufacturer of high-precision CNC grinding machines** for cutting tools (drills, end mills, inserts). Contributed within the Laser Department in collaboration with the AI team, focusing on automation for tool creation.
