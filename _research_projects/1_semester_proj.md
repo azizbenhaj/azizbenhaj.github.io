@@ -3,7 +3,6 @@ title: "Reverse Knowledge Distillation and Task Arithmetic for Generalist Vision
 excerpt: "This project explores how to integrate specialized knowledge into generalist vision models using reverse knowledge distillation and task arithmetic, enabling scalable and privacy-preserving multi-task learning."
 collection: research_projects
 permalink: /publication/2026-03-11-reverse-knowledge-distillation
-paperurl: '../../files/Semester_Project_LTS4-3.pdf'
 share: false
 related: false
 ---
