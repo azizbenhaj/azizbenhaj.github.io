@@ -1,5 +1,5 @@
 ---
-title: "🐱🐶 Binary Image Classification: Cats vs Dogs (MLOps Project)"
+title: "Binary Image Classification: Cats vs Dogs - MLOps Project"
 author: "MLOps Project Team"
 ---
 
