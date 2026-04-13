@@ -126,4 +126,4 @@ Tree-based models capture complex interactions between income, behavior, and spe
 
 ## Resources
 
-- **Report**: [Full Report](/files/Customer_Personality_Analysis.pdf)
+- **Report**: [Full Report](/files/AudioAvenue.pdf)
