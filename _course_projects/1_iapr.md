@@ -4,7 +4,6 @@ excerpt: "This project explores multiple deep learning models: CNNs, ResNet50, a
 collection: course_projects
 share: false
 related: false
-slidesurl: "../../files/Coin_counter.pptx"
 ---
 
 ## Problem Statement & Motivation
@@ -54,3 +53,6 @@ The models were evaluated both qualitatively and quantitatively:
 - Improve segmentation accuracy to reduce false positives.
 - Expand classes for different currencies or damaged coins.
 
+## Resources
+
+- **Report**: [Full Report](/files/Coin_counter.pptx)
