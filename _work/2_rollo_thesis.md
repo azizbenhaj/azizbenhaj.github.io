@@ -1,9 +1,7 @@
 ---
 title: "🎓 Data Engineer Intern & Master Thesis (Rollomatic SA – 7 Months)"
-paperurl: ""
 permalink: /rollomatic-data-engineer-intern-2-thesis/
 author: "Ahmed Aziz Ben Haj Hmida"
-date: 2026-04-13
 ---
 
 After my initial internship period, I continued at **Rollomatic SA** for an additional **7 months**, during which I completed my **Master Thesis in Data Science** in collaboration with EPFL.
