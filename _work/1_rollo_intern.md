@@ -1,5 +1,5 @@
 ---
-title: "🏢 Data Engineer Intern (Rollomatic SA – 7 Months)"
+title: "Data Engineer Intern (Rollomatic SA – 7 Months)"
 permalink: /rollomatic-data-engineer-intern-1/
 author: "Ahmed Aziz Ben Haj Hmida"
 ---
