@@ -146,8 +146,7 @@ Key findings:
 
 ## Resources
 
-- **PDF**: [Full Report](/files/Semester_Project_LTS4-3.pdf)  
-- **Slides**: [Oral Presentation](/files/Semester_Project_Oral.pptx)
+- **PDF**: [Full Report](/files/Semester_Project_LTS4.pdf)
 
 
 > *This project demonstrates how knowledge distillation and task arithmetic can bridge the gap between specialized and generalist models, enabling scalable, privacy-preserving multi-task learning.*
