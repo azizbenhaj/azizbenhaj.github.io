@@ -3,7 +3,6 @@ title: "Work Experience – Rollomatic SA (Data Engineer Intern – 7 Months)"
 paperurl: ""
 permalink: /rollomatic-data-engineer-intern-1/
 author: "Ahmed Aziz Ben Haj Hmida"
-date: 2026-04-13
 ---
 
 # 🏢 Rollomatic SA – Data Engineer Intern (7 Months)
