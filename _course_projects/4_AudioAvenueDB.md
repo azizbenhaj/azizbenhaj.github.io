@@ -2,8 +2,8 @@
 title: "Customer Personality Analysis and Revenue Prediction for Retail Optimization"
 excerpt: "This project analyzes customer behavior and predicts revenue generation using machine learning models, enabling targeted marketing strategies and improved business decision-making."
 collection: research_projects
-permalink: /publication/2026-03-11-customer-personality-analysis
-paperurl: '/files/Customer_Personality_Analysis.pdf'
+permalink:
+reporturl: "../../files/AudioAvenue.pdf"
 share: false
 related: false
 ---
