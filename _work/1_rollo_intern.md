@@ -5,9 +5,7 @@ permalink: /rollomatic-data-engineer-intern-1/
 author: "Ahmed Aziz Ben Haj Hmida"
 ---
 
-## 📌 Company Context
-
-I worked at **Rollomatic SA**, a Swiss industrial company specialized in high-precision CNC machines for tool grinding and laser machining. The company operates in a data-rich manufacturing environment where machine learning and data engineering are increasingly used to improve engineering workflows.
+I worked as a Data Engineer at **Rollomatic SA**, a Swiss industrial company specialized in high-precision CNC machines for tool grinding and laser machining. The company operates in a data-rich manufacturing environment where machine learning and data engineering are increasingly used to improve engineering workflows.
 
 ---
 
