@@ -4,7 +4,6 @@ excerpt: "This project investigates how to accelerate motor skill acquisition in
 collection: research_projects
 share: false
 related: false
-reporturl: "../../files/Reinforcement_Learning_report.pdf"
 
 ---
 
