@@ -51,10 +51,10 @@ This role provided strong experience in:
 ## 📎 Documents
 
 - 📄 Internship Certificate:  
-  [/assets/files/rollomatic_internship_certificate.pdf](/assets/files/rollomatic_internship_certificate.pdf)
+  [/assets/files/rollomatic_internship_certificate.pdf](/files/rollomatic_internship_certificate.pdf)
 
 - 🎤 Internship Presentation:  
-  [/assets/files/rollomatic_internship_presentation.pdf](/assets/files/rollomatic_internship_presentation.pdf)
+  [/assets/files/rollomatic_internship_presentation.pdf](/files/rollomatic_internship_presentation.pptx)
 
 - ⭐ Recommendation Letter (Supervisor):  
-  [/assets/files/rollomatic_internship_recommendation.pdf](/assets/files/rollomatic_internship_recommendation.pdf)
+  [/assets/files/rollomatic_internship_recommendation.pdf](/files/rollomatic_internship_recommendation.pdf)
