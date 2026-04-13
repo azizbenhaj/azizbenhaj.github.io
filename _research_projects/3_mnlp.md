@@ -147,5 +147,5 @@ Future systems should incorporate:
 
 ## Resources
 
-- **Report**: [Full Report](../../files/GemmaEdu.pdf)
+- **Report**: [Full Report](/files/MNLP_3rd_report.pdf)
 
