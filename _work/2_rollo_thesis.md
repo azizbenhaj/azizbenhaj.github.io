@@ -6,8 +6,6 @@ author: "Ahmed Aziz Ben Haj Hmida"
 date: 2026-04-13
 ---
 
-## 📌 Transition to Research
-
 After my initial internship period, I continued at **Rollomatic SA** for an additional **7 months**, during which I completed my **Master Thesis in Data Science** in collaboration with EPFL.
 
 ---
