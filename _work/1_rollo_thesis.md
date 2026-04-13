@@ -1,12 +1,10 @@
 ---
-title: "Work Experience – Rollomatic SA (Data Engineer Intern + Master Thesis – 7 Months)"
+title: "🎓 Data Engineer Intern & Master Thesis (Rollomatic SA – 7 Months)"
 paperurl: ""
 permalink: /rollomatic-data-engineer-intern-2-thesis/
 author: "Ahmed Aziz Ben Haj Hmida"
 date: 2026-04-13
 ---
-
-# 🎓 Rollomatic SA – Data Engineer Intern & Master Thesis (7 Months)
 
 ## 📌 Transition to Research
 
