@@ -3,7 +3,6 @@ title: "Customer Personality Analysis and Revenue Prediction for Retail Optimiza
 excerpt: "This project analyzes customer behavior and predicts revenue generation using machine learning models, enabling targeted marketing strategies and improved business decision-making."
 collection: research_projects
 permalink:
-reporturl: "../../files/AudioAvenue.pdf"
 share: false
 related: false
 ---
