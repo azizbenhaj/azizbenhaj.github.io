@@ -4,7 +4,7 @@ excerpt: "This project explores how to integrate specialized knowledge into gene
 collection: research_projects
 share: false
 related: false
-reporturl: "../../files/Semester_Project_LTS4-3.pdf"
+reporturl: "/files/Semester_Project_LTS4-3.pdf"
 ---
 
 ## Problem Statement & Motivation
@@ -15,10 +15,12 @@ Modern machine learning systems face a fundamental trade-off:
 - **Generalist models** are flexible but fail to capture **task-specific knowledge**
 
 A key challenge is:
+
 > How can we transfer knowledge from specialized models into a generalist model **without access to labeled data**?
 
 This project addresses this problem using **reverse knowledge distillation** and **task arithmetic**, enabling scalable and privacy-preserving multi-task learning.
 
+---
 
 ## Our Approach
 
@@ -27,19 +29,21 @@ We design a unified framework combining **unsupervised distillation**, **model m
 ### 1. Reverse Knowledge Distillation (RKD)
 
 Unlike standard distillation, we transfer knowledge:
+
 - From **specialized teacher models → generalist student model**
 
 Key innovation:
+
 - Use **feature-level contrastive learning** instead of label-based supervision  
 - Enables training with **unlabeled data only**
 
 The student learns to align its embeddings with those of the teacher using:
+
 - Contrastive loss (positive = same input, negative = different inputs)
 - Optional KL-based distillation  
 
-📌 Key advantage:  
+📌 **Key advantage:**  
 Preserves **data privacy** while enabling effective knowledge transfer.
-
 
 ---
 
@@ -51,29 +55,28 @@ We represent each task as a **task vector**:
 - Captures task-specific knowledge  
 
 We then:
+
 - Combine multiple task vectors into a single model  
 - Create a **multi-task generalist model without retraining**
 
-📌 Insight:  
+📌 **Insight:**  
 Task arithmetic provides a **lightweight alternative to full fine-tuning**.
-
 
 ---
 
 ### 3. Experimental Setup
 
-- **Models**:
-  - Vision Transformers (ViT-B16, ViT-B32, ViT-L14)  
-  - CNNs (ResNet50, ConvNeXt)  
+**Models:**
+- Vision Transformers (ViT-B16, ViT-B32, ViT-L14)  
+- CNNs (ResNet50, ConvNeXt)  
 
-- **Datasets (8 tasks)**:
-  - MNIST, SVHN, DTD, GTSRB, SUN397, RESISC45, EuroSAT, Cars  
+**Datasets (8 tasks):**
+- MNIST, SVHN, DTD, GTSRB, SUN397, RESISC45, EuroSAT, Cars  
 
-- **Training strategies**:
-  - Fine-tuning  
-  - Reverse distillation  
-  - Task vector merging  
-
+**Training strategies:**
+- Fine-tuning  
+- Reverse distillation  
+- Task vector merging  
 
 ---
 
@@ -87,6 +90,7 @@ To understand knowledge transfer, we analyzed embeddings using:
 
 These tools provide **interpretability** of how knowledge is transferred across models.
 
+---
 
 ## Key Results
 
@@ -94,55 +98,62 @@ These tools provide **interpretability** of how knowledge is transferred across 
 - **Reverse distillation effectively transfers knowledge without labels**  
 - **Task arithmetic enables multi-task generalization** with reduced cost  
 
-📌 Important findings:
+📌 **Important findings:**
 
-- Distillation works best when:
-  → **Teacher and student architectures are similar**  
+- Distillation works best when  
+  → **Teacher and student architectures are similar**
 
-- Task arithmetic:
+- Task arithmetic  
   → Achieves **intermediate performance** between pretrained and fully fine-tuned models  
 
-- Random task vector combinations:
+- Random task vector combinations  
   → Introduce variability but can still yield strong performance  
 
-- Representation analysis shows:
-  → Better alignment (CKA, cosine similarity) → better transfer  
+- Representation alignment (CKA, cosine similarity)  
+  → Directly correlates with transfer quality  
 
+---
 
 ## Insights & Contributions
 
 - Introduced a **privacy-preserving reverse distillation pipeline**  
 - Demonstrated effectiveness of **feature-based (contrastive) knowledge transfer**  
 - Validated **task arithmetic as a scalable alternative** to retraining  
-- Provided deep insights into:
-  - **Embedding geometry**
-  - **Architecture compatibility**
-  - **Knowledge transfer dynamics**  
+- Provided insights into:
+  - Embedding geometry  
+  - Architecture compatibility  
+  - Knowledge transfer dynamics  
 
+---
 
 ## Discussion
 
 ### Strengths
+
 - Works **without labeled data**  
 - Scalable to **multiple tasks and datasets**  
 - Combines **performance + interpretability**  
 
 ### Limitations
-- Performance depends heavily on **architecture similarity**  
-- Task merging can introduce **performance variability**  
-- Complex datasets remain challenging for transfer  
+
+- Performance depends on **architecture similarity**  
+- Task merging introduces **variability**  
+- Complex datasets remain challenging  
 
 ### Key Insight
-> Knowledge transfer is not only about data — it strongly depends on **representation alignment between models**.
 
+> Knowledge transfer depends strongly on **representation alignment between models**, not only data.
+
+---
 
 ## Future Work
 
 - Learn **optimal weighting of task vectors**  
-- Explore **cross-architecture distillation improvements**  
-- Combine **hierarchical or graph-based representations**  
-- Apply to **real-world multi-domain systems (e.g., medical AI)**  
+- Improve **cross-architecture distillation**  
+- Explore **hierarchical / graph-based representations**  
+- Apply to **real-world multi-domain systems**  
 
+---
 
 ## Project Information
 
@@ -150,8 +161,9 @@ These tools provide **interpretability** of how knowledge is transferred across 
 - **Professor**: Prof. Pascal Frossard  
 - **Supervisors**: Ortal Senouf & Nikolaos Dimitriadis  
 
+---
 
 ## Resources
 
-- **Report**: [Full Report](../../files/Semester_Project_LTS4-3.pdf)  
-- **Oral Presentation**: [Slides](../../files/Semester_Project_Oral.pptx)
+- [Full Report](/files/Semester_Project_LTS4-3.pdf)  
+- [Oral Presentation](/files/Semester_Project_Oral.pptx)
