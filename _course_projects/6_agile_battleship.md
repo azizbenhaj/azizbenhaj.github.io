@@ -3,7 +3,7 @@ title: "Battleship: Agile Object-Oriented Software Development Project"
 excerpt: "This project implements a Battleship game using Agile methodology and JavaFX, featuring multiplayer and AI modes, MVC architecture, and multiple design patterns including Observer and Singleton."
 collection: research_projects
 permalink: /publication/2026-04-08-battleship-agile-project
-paperurl: '/files/Battleship_Report.pdf'
+paperurl: '../../files/Battleship_Report.pdf'
 share: false
 related: false
 ---
