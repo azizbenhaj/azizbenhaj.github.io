@@ -109,8 +109,8 @@ Overall, the results highlight that:
 
 - **Institution**: EPFL – School of Computer and Communication Sciences  
 - **Industry Partner**: Rollomatic SA  
-- **Supervisors**: Prof. *Devis Tuia* & *Ciprian Tomoiaga*  
-- **Defense Date**: August 2025  
+- **Supervisors**: Prof. *Jean-Philippe Thiran*
+- **Defense Date**: March 2026  
 
 
 ## Resources
