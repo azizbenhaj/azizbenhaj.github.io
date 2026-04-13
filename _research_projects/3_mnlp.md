@@ -4,7 +4,6 @@ excerpt: "This project explores adapting a lightweight open-source language mode
 collection: research_projects
 share: false
 related: false
-reporturl: "../../files/MNLP_3rd_report.pdf"
 ---
 
 ## Problem Statement & Motivation
