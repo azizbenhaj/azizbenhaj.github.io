@@ -5,8 +5,6 @@ permalink: /cats-dogs-mlops-project/
 author: "MLOps Project Team"
 ---
 
-## 📌 Project Overview
-
 This project addresses a binary image classification problem: distinguishing between images of cats and dogs using deep learning techniques.
 
 Beyond model performance, the main focus is the implementation of a complete **Machine Learning Operations (MLOps)** pipeline. The project follows the principles taught in the DTU MLOps course, where the emphasis is not only on building models, but on making them **reproducible, maintainable, scalable, and deployable in production systems**.
