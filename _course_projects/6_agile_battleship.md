@@ -185,11 +185,7 @@ This separation improves:
 - Report → Entire team  
 
 - **Report**: [Full Report](/files/Battleship_Report.pdf)
-
-## Additional Resources
-
-- **Screencast**: https://youtu.be/fMEB7YwzuNY  
-- **GitHub Repository**: https://github.com/thibaudbrg/Agile-OO-SoftDev-Project  
+- **Screencast**: [Youtube](https://youtu.be/fMEB7YwzuNY  )
 
 ---
 
