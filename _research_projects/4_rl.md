@@ -4,7 +4,7 @@ excerpt: "This project investigates how to accelerate motor skill acquisition in
 collection: research_projects
 share: false
 related: false
-reporturl: "../../files/Reinforcement_Learning_report.pdf"
+reporturl: "/files/Reinforcement_Learning_report.pdf"
 
 ---
 
@@ -56,6 +56,7 @@ We also test projection/back-projection methods and latent space exploration for
 - Policy distillation via **static PCA** is effective and can cut training time from hundreds to under 24 hours.
 - PCA might not fully capture task-specific nuances—methods like **Independent Component Analysis (ICA)** could be more suitable.
 - Placement of dimensionality reduction layers in the network matters; future work should explore this further.
-
-**PDF Poster**: [Download Full Report](../../files/Reinforcement_Learning_Poster.pdf)
+  
+**PDF Report**: [Download Full Report](/files/Reinforcement_Learning_report.pdf)
+**PDF Poster**: [Download Full Report](/files/Reinforcement_Learning_poster.pdf)
 
