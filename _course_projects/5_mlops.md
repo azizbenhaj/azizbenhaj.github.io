@@ -1,7 +1,5 @@
 ---
 title: "🐱🐶 Binary Image Classification: Cats vs Dogs (MLOps Project)"
-paperurl: ""
-permalink: /cats-dogs-mlops-project/
 author: "MLOps Project Team"
 ---
 
