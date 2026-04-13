@@ -114,8 +114,8 @@ Overall, the results highlight that:
 
 ## Resources
 
-- **PDF**: [Full Thesis PDF](/files/Master_thesis_final_report.pdf)  
-- **Slides**: [Presentation Slides](/files/Master_Thesis_Presentation.pptx)
+- **PDF**: [Full Thesis PDF](/files/rollomatic_master_thesis_report.pdf)  
+- **Slides**: [Presentation Slides](/files/rollomatic_thesis_presentation.pdf)
 
 
 > *This work bridges vision–language modeling and remote sensing, paving the way for structured, interpretable, and fine-grained retrieval systems in complex geospatial domains.*
