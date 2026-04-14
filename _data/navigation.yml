@@ -12,11 +12,14 @@ main:
   - title: "Research projects"
     url: /research_projects/    
 
-  - title: "Course Projects"
+  - title: "Academic Projects"
     url: /course_projects/    
         
   - title: "Work Experiences"
     url: /work/
+
+  - title: "CV & More"
+    url: /cv_more/
     
   #- title: "CV"
   #  url: /cv/
