@@ -77,7 +77,7 @@ Evaluation was conducted in a **zero-shot setting**, ensuring fair comparison.
 
 ## Results
 
-- Fine-tuning improves overall accuracy from **~30% to ~37% on MMLU** :contentReference[oaicite:0]{index=0}  
+- Fine-tuning improves overall accuracy from **~30% to ~37% on MMLU**  
 - Strong gains across:
   - STEM  
   - Social sciences  
