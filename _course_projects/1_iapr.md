@@ -53,4 +53,4 @@ The models were evaluated both qualitatively and quantitatively:
 
 ## Resources
 
-- **Report**: [Full Report](/files/Coin_counter.pptx)
+- **Final Presentation Slides**: [Full Report](/files/Coin_counter.pptx)
