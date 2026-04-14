@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## 📄 Curriculum Vitae
-<iframe src="/files/CV.pdf" width="100%" height="600px"></iframe>
 
 [Download my CV](../files/CV.pdf)
 
