@@ -21,7 +21,7 @@ author_profile: true
 ---
 
 ## 🎓 Certificates
-- [Structuring ML Projects  – DeepLearning.AI, Coursera](../files/Structuring_ML_Projects .pdf)
+- [Structuring ML Projects  – DeepLearning.AI, Coursera](../files/Structuring_ML_Projects.pdf)
 - Certificate in Artificial Intelligence – GOMYCODE
 
 ---
