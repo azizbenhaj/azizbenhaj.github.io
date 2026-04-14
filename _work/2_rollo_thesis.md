@@ -1,6 +1,5 @@
 ---
 title: "Data Engineer Intern & Master Thesis (Rollomatic SA – 7 Months)"
-permalink: /rollomatic-data-engineer-intern-2-thesis/
 author: "Ahmed Aziz Ben Haj Hmida"
 ---
 
