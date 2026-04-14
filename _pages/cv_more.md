@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 ## 📄 Curriculum Vitae
-You can either:
-- Embed your CV (PDF)
-- Or write it directly here
+<iframe src="/files/CV.pdf" width="100%" height="600px"></iframe>
 
 [Download my CV](../files/CV.pdf)
 
