@@ -65,7 +65,7 @@ Adopted a **multi-perspective evaluation strategy**:
 
 ## Key Results
 
-- Improve tool retrieval accuracy by +11% in industrial design workflows.
+- Improve tool retrieval accuracy by +11% in industrial design workflows
 - Reduce tool search time by 95–99%, from minutes to seconds
 - **Rank-aware metric learning significantly improves retrieval quality** over binary contrastive methods  
 - **L2-based regression losses** outperform cosine-based formulations in stability and ranking performance  
