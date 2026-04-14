@@ -227,11 +227,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-  CV:
-    output: true
-    permalink: /:collection/:path/
-
-  More:
+  CV & More:
     output: true
     permalink: /:collection/:path/
   
@@ -289,7 +285,16 @@ defaults:
       share: true
       comment: true
 
-
+  # _CV & More
+  - scope:
+      path: ""
+      type: CV & More
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
