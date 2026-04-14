@@ -1,5 +1,5 @@
 ---
-permalink: /cv-more/
+permalink: /cv_more/
 title: CV & More
 layout: single
 author_profile: true
