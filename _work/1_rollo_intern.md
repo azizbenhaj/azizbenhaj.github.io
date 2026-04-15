@@ -50,8 +50,5 @@ This role provided strong experience in:
 - 🎤 Internship Presentation:  
   [rollomatic_internship_presentation.pdf](/files/rollomatic_internship_presentation.pptx)
 
-- ⭐ Recommendation Letter (EPFL Supervisor):  
-  [rollomatic_internship_recommendation.pdf](/files/prof_recommendation.pdf)
-
 - ⭐ Recommendation Letter (Company Supervisor):  
   [rollomatic_recommendation.pdf](/files/rollomatic_recommendation.pdf)
