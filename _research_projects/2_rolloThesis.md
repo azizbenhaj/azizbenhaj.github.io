@@ -1,5 +1,5 @@
 ---
-title: "Learning Similarity for Curve-Based Retrieval in Industrial Tool Design"
+title: "Master Thesis: Learning Similarity for Curve-Based Retrieval in Industrial Tool Design (Grade 6/6)"
 excerpt: "This thesis develops a metric learning framework for fine-grained geometric similarity retrieval of laser machining tools, enabling efficient reuse of designs and accelerating industrial engineering workflows."
 collection: research_projects
 permalink: /publication/2026-03-11-curve-similarity-retrieval
