@@ -70,10 +70,10 @@ The goal was to build a **learned similarity system for curve-based retrieval**.
   [rollomatic_thesis_presentation.pdf](/files/rollomatic_thesis_presentation.pdf)
 
 - 📜 Internship Certificate:  
-  [rollomatic_thesis_internship_certificate.pdf](/files/rollomatic_certificat.pdf)
+  [rollomatic_certificate.pdf](/files/rollomatic_certificat.pdf)
 
 - ⭐ Professor Recommendation Letter:  
   [rollomatic_prof_recommendation.pdf](/files/rollomatic_prof_recommendation.pdf)
 
 - ⭐ Recommendation Letter (Company Supervisor):  
-  [/rollomatic_internship_recommendation.pdf](/files/rollomatic_internship_recommendation.pdf)
+  [rollomatic_recommendation.pdf](/files/rollomatic_recommendation.pdf)
