@@ -15,7 +15,7 @@ I’m **Ahmed Aziz Ben Haj Hmida**, an EPFL graduate with a Master’s in **Data
 **Master of Data Science**, Minor in Management, Technology, and Entrepreneurship  
 **EPFL, Switzerland** | 2023 – 2026  
 **GPA**: 5.3 / 6  
-**Master’s Thesis**: Curve-Based Similarity Detection & Parameter Recalibration for CNC Laser Tools (Grade: 6/6)
+**Master’s Thesis**: Curve-Based Similarity Detection & Parameter Recalibration for CNC Laser Tools **(Grade: 6/6)**
 
 **Bachelor of Communication Systems**  
 **EPFL, Switzerland** | 2020 – 2023  
