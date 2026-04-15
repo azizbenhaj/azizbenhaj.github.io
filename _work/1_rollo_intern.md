@@ -45,13 +45,13 @@ This role provided strong experience in:
 ## 📎 Documents
 
 - 📄 Internship Certificate:  
-  [rollomatic_internship_certificate.pdf](/files/rollomatic_certificat.pdf)
+  [rollomatic_certificate.pdf](/files/rollomatic_certificat.pdf)
 
 - 🎤 Internship Presentation:  
   [rollomatic_internship_presentation.pdf](/files/rollomatic_internship_presentation.pptx)
 
 - ⭐ Recommendation Letter (EPFL Supervisor):  
-  [/rollomatic_internship_recommendation.pdf](/files/rollomatic_internship_recommendation.pdf)
+  [rollomatic_internship_recommendation.pdf](/files/prof_recommendation.pdf)
 
 - ⭐ Recommendation Letter (Company Supervisor):  
-  [/rollomatic_internship_recommendation.pdf](/files/rollomatic_internship_recommendation.pdf)
+  [rollomatic_recommendation.pdf](/files/rollomatic_recommendation.pdf)
