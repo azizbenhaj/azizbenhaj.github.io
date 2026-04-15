@@ -64,13 +64,16 @@ The goal was to build a **learned similarity system for curve-based retrieval**.
 ## 📎 Documents
 
 - 📄 Master Thesis Report:  
-  [/assets/files/rollomatic_master_thesis_report.pdf](/files/rollomatic_master_thesis_report.pdf)
+  [rollomatic_master_thesis_report.pdf](/files/rollomatic_master_thesis_report.pdf)
 
 - 🎤 Final Thesis Presentation:  
-  [/assets/files/rollomatic_thesis_presentation.pdf](/files/rollomatic_thesis_presentation.pdf)
+  [rollomatic_thesis_presentation.pdf](/files/rollomatic_thesis_presentation.pdf)
 
 - 📜 Internship Certificate:  
-  [/assets/files/rollomatic_thesis_internship_certificate.pdf](/files/rollomatic_thesis_internship_certificate.pdf)
+  [rollomatic_thesis_internship_certificate.pdf](/files/rollomatic_certificat.pdf)
 
 - ⭐ Professor Recommendation Letter:  
-  [/assets/files/rollomatic_prof_recommendation.pdf](/files/rollomatic_prof_recommendation.pdf)
+  [rollomatic_prof_recommendation.pdf](/files/rollomatic_prof_recommendation.pdf)
+
+- ⭐ Recommendation Letter (Company Supervisor):  
+  [/rollomatic_internship_recommendation.pdf](/files/rollomatic_internship_recommendation.pdf)
