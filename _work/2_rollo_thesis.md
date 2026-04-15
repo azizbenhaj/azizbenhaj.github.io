@@ -7,7 +7,7 @@ After my initial internship period, I continued at **Rollomatic SA** for an addi
 
 ---
 
-## 🎓 Master Thesis Project
+## 🎓 Master Thesis Project (Grade 6/6)
 
 ### 📘 Title  
 **Improved Curve Similarity Search for Cutting Tools: Faster Design and Optimized Tool Creation**
