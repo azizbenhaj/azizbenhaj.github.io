@@ -35,3 +35,12 @@ author_profile: true
 ---
 
 ## ⭐ Recommendations
+
+- ⭐ Professor Recommendation Letter:  
+  [prof_recommendation.pdf](/files/prof_recommendation.pdf)
+
+- ⭐ Recommendation Letter (Company Supervisor):  
+  [rollomatic_recommendation.pdf](/files/rollomatic_recommendation.pdf)
+
+- 📜 Rollomatic Internship Certificate:  
+  [rollomatic_internship_certificate.pdf](/files/rollomatic_certificat.pdf)
