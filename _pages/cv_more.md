@@ -7,16 +7,18 @@ author_profile: true
 
 ## 📄 Curriculum Vitae
 
-[Download my CV](../files/CV.pdf)
-
+[Download my CV (Data Science)](../files/CV_DS.pdf)
+[Download my CV (Business)](../files/CV_Business.pdf)
 ---
 
 ## 💻 Technical Skills
 - **Languages:** Python, Java, SQL, Matlab, Scala
-- **Machine Learning Frameworks:** NumPy, Pandas, scikit-learn, PyTorch, XGBoost, Matplotlib, Seaborn
-- **Computer Vision Frameworks:** OpenCV, torchvision, Pillow, scikit-image
-- **Natural Language Processing Frameworks:** spaCy, NLTK, Hugging Face Transformers, SentenceTransformers, Gensim
-- **Tools & MLOps:** Git, Docker, FastAPI, MLflow, WandB, CI/CD(GitHub Actions), Cloud(GCP), Streamlit
+- **ML & AI:** NumPy, Pandas, scikit-learn, PyTorch, PySpark
+- **Computer Vision:** OpenCV, scikit-image, torchvision, Vision Transformers, CNNs, ResNet
+- **Natural Language Processing:** spaCy, HuggingFace, Quantization, LoRA, RLHF, PEFT, SentenceTransformers
+- **Agentic AI:** LangChain, LangGraph, LlamaIndex, Vector Search, FAISS, PostgreSQL, Prompt Engineering
+- **DevOps & MLOp:** Git, Docker, Kubernetes, FastAPI, MLflow, WandB, DVC, CI/CD(GitHub Actions), Cloud(GCP, AWS, Azure), Streamlit
+- **Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Excel, PowerPoint
 
 ---
 
