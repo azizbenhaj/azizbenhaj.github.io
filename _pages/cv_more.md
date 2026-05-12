@@ -8,7 +8,7 @@ author_profile: true
 ## 📄 Curriculum Vitae
 
 [Download my CV (Data Science)](../files/CV_DS.pdf)  
-[Download my CV (Business)](../files/CV_Business.pdf)
+<!-- [Download my CV (Business)](../files/CV_Business.pdf) -->
 
 ---
 
