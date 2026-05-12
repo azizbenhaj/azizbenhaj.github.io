@@ -9,6 +9,7 @@ author_profile: true
 
 [Download my CV (Data Science)](../files/CV_DS.pdf)  
 [Download my CV (Business)](../files/CV_Business.pdf)
+
 ---
 
 ## 💻 Technical Skills
