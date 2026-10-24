@@ -1,10 +1,12 @@
 ---
 title: "AI/ML Engineer — New Wind Ventures SA"
-excerpt: "During my studies, I served as a **teaching assistant** for multiple courses, assisting in lectures, labs, and tutorials"
+excerpt: "I work as an **AI/ML Engineer at New Wind Ventures**, a Swiss investment intelligence company focused on African markets. The company leverages artificial intelligence, machine learning, and data engineering to transform complex economic, political, governance, and sector-specific data into actionable insights, helping investors identify opportunities, assess risks, and make informed investment decisions across Africa."
 location: Geneva, Switzerland
 share: false
 related: false
 ---
+
+I work as an **AI/ML Engineer at New Wind Ventures**, a Swiss investment intelligence company focused on African markets. The company leverages artificial intelligence, machine learning, and data engineering to transform complex economic, political, governance, and sector-specific data into actionable insights, helping investors identify opportunities, assess risks, and make informed investment decisions across Africa.
 
 ## My role as an AI/ML Engineer:
 
