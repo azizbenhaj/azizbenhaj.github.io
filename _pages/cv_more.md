@@ -24,6 +24,7 @@ author_profile: true
 ---
 
 ## 🎓 Certificates
+- [Data Analysis Certificate](/files/Mayerfeld.pdf) – Mayerfeld Consulting *(Jun 2026 – Aug 2026)*
 - [IBM RAG and Agentic AI](https://coursera.org/verify/professional-cert/76ND0K12DJG8) – IBM *(Apr 2026 – Jun 2026)*
 - [DevOps and AI on AWS](https://coursera.org/verify/specialization/B2IK2LY1H1CG) – AWS *(May 2026 – Jun 2026)*
 - [Structuring Machine Learning Projects](https://coursera.org/verify/TY3AKJQHBET9) – DeepLearning.AI *(Sep 2023 – Oct 2023)*
