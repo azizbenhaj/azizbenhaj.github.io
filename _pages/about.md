@@ -31,4 +31,6 @@ I’m **Ahmed Aziz Ben Haj Hmida**, an EPFL graduate with a Master’s in **Data
 - [**EPFL Alexander Mathis Lab**](https://www.epfl.ch/labs/alexandermathis-lab/): The Alexander Mathis Group of Computational Neuroscience & AI operates at the intersection of computational neuroscience and machine learning, with the goal of reverse-engineering brain algorithms to better understand neural function and develop more advanced AI systems.
 
 ### Industry Internships
+- [**New Wind Ventures SA (Switzerland)**](https://www.newwind.tech): New Wind Ventures is a Swiss technology company that leverages artificial intelligence, data science, and investment intelligence to transform fragmented African market data into actionable insights, helping investors identify opportunities, assess risks, and allocate capital more confidently across Africa.
 - [**Rollomatic SA (Switzerland)**](https://www.rollomatic.ch): Rollomatic is a **Swiss manufacturer of high-precision CNC grinding machines** for cutting tools (drills, end mills, inserts). Contributed within the Laser Department in collaboration with the AI team, focusing on automation for tool creation.
+
